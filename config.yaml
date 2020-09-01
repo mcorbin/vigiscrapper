@@ -1,0 +1,7 @@
+stations:
+  - "V150401002"
+influx:
+  address: "http://localhost:8086"
+  username: "test"
+  password: "test"
+  database: "vigicrue"
